@@ -8,24 +8,24 @@ Wikelo Polaris Table
 | DCHS-05 Orbital Positioning Comp-Board | 20
 | Carinite | 20
 | Irradiated Valakkar Fang (Apex) | 20
-Bring 20x MG Scrip. Me at Location.
-Bring 15x Ace Interceptor Helmet. Me at Location.
-Bring 20x Irradiated Valakkar Pearl (Grade AAA). Me at Location.
-Bring 20x UEE 6th Platoon Medal (Pristine). Me at Location.
-Bring 20x Carinite (Pure). Me at Location.
-Bring 10x Finley the Stormwal Large Plushie. Me at Location.
-Bring 1x Picoball. Me at Location.
-Bring 5x Janalite. Me at Location.
-Bring 1x WowBlast Desperado Toy Pistol Red. Me at Location.
-Bring 6x 8 SCU of Atlasium. Me at Location.
-Bring 10x Scourge Railgun. Me at Location.
-Bring 20x ASD Secure Drive. Me at Location.
-Bring 1x RCMBNT-PWL-1. Me at Location.
-Bring 1x RCMBNT-PWL-2. Me at Location.
-Bring 1x RCMBNT-PWL-3. Me at Location.
-Bring 1x RCMBNT-RGL-1. Me at Location.
-Bring 1x RCMBNT-RGL-2. Me at Location.
-Bring 1x RCMBNT-RGL-3. Me at Location.
-Bring 1x RCMBNT-XTL-1. Me at Location.
-Bring 1x RCMBNT-XTL-2. Me at Location.
-Bring 1x RCMBNT-XTL-3. Me at Location.
+| MG Scrip | 20
+| Ace Interceptor Helmet | 15
+| Irradiated Valakkar Pearl (Grade AAA) | 20
+| UEE 6th Platoon Medal (Pristine) | 20
+| Carinite (Pure) | 20
+| Finley the Stormwal Large Plushie | 10
+| Picoball | 1
+| Janalite | 5
+| WowBlast Desperado Toy Pistol Red | 1
+| 8 SCU of Atlasium | 6
+| Scourge Railgun | 10
+| ASD Secure Drive | 20
+| RCMBNT-PWL-1 | 1
+| RCMBNT-PWL-2 | 1
+| RCMBNT-PWL-3 | 1
+| RCMBNT-RGL-1 | 1
+| RCMBNT-RGL-2 | 1
+| RCMBNT-RGL-3 | 1
+| RCMBNT-XTL-1 | 1
+| RCMBNT-XTL-2 | 1
+| RCMBNT-XTL-3 | 1
