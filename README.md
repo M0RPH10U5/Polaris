@@ -4,15 +4,15 @@ Wikelo Polaris Table
 | Item | Needed | Drakestorm | 1337-m0rph10u5 | Fun_and_Games |
 |:---:|:---:|:---:|:---:|:---:|
 | Wikelo Favor | 50 | 0 | 0 | 0 |
-| Polaris Bit | 25
-| DCHS-05 Orbital Positioning Comp-Board | 20
-| Carinite | 20
-| Irradiated Valakkar Fang (Apex) | 20
-| MG Scrip | 20
-| Ace Interceptor Helmet | 15
-| Irradiated Valakkar Pearl (Grade AAA) | 20
-| UEE 6th Platoon Medal (Pristine) | 20
-| Carinite (Pure) | 20
+| Polaris Bit | 25 | 0 | 0 | 0 |
+| DCHS-05 Orbital Positioning Comp-Board | 20 | 20 | 3 | 0 |
+| Carinite | 20 | 36 | 20 | 10 |
+| Irradiated Valakkar Fang (Apex) | 20 | 6 | 0 | 0 |
+| MG Scrip | 20 | 2 | 20 | 0 |
+| Ace Interceptor Helmet | 15 | 0 | 0 | 0 |
+| Irradiated Valakkar Pearl (Grade AAA) | 20 | 50 | 0 | 0 |
+| UEE 6th Platoon Medal (Pristine) | 20 | 0 | 0 | 0 |
+| Carinite (Pure) | 20 | 0 | 0 | 0 |
 | Finley the Stormwal Large Plushie | 10
 | Picoball | 1
 | Janalite | 5
