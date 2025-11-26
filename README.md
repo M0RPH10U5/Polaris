@@ -5,9 +5,9 @@ Wikelo Polaris Table
 |:---:|:---:|:---:|:---:|:---:|
 | Wikelo Favor | 50
 | Polaris Bit | 25
-Bring 20x DCHS-05 Orbital Positioning Comp-Board. Me at Location.
-Bring 20x Carinite. Me at Location.
-Bring 20x Irradiated Valakkar Fang (Apex). Me at Location.
+| DCHS-05 Orbital Positioning Comp-Board | 20
+| Carinite | 20
+| Irradiated Valakkar Fang (Apex) | 20
 Bring 20x MG Scrip. Me at Location.
 Bring 15x Ace Interceptor Helmet. Me at Location.
 Bring 20x Irradiated Valakkar Pearl (Grade AAA). Me at Location.
