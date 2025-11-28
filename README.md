@@ -18,7 +18,7 @@ Wikelo Polaris Table
 | Janalite | 5 | 5 | 5 | 5 | 15 |
 | WowBlast Desperado Toy Pistol Red | 1 | 1 | 1 | 1 | 3 |
 | 8 SCU of Atlasium | 6 | 3 | 0 | 0 | 3 |
-| Scourge Railgun | 10 | 0 | 0 | 0 | 0 |
+| Scourge Railgun | 10 | 0 | 8 | 0 | 8 |
 | ASD Secure Drive | 20 | 21 | 30 | 17 | 68 |
 | RCMBNT-PWL-1 | 1 | 2 | 1 | 0 | 3 |
 | RCMBNT-PWL-2 | 1 | 2 | 1 | 0 | 3 |
