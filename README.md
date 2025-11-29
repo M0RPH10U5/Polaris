@@ -5,7 +5,7 @@ Wikelo Polaris Table
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Wikelo Favor | 50 | 0 | 0 | 0 | 0 |
 | Polaris Bit | 25 | 0 | 0 | 0 | 0 |
-| DCHS-05 Orbital Positioning Comp-Board | 20 | 20 | 3 | 0 | 23 |
+| DCHS-05 Orbital Positioning Comp-Board | 20 | 20 | 7 | 0 | 27 |
 | Carinite | 20 | 36 | 20 | 10 | 66 |
 | Irradiated Valakkar Fang (Apex) | 20 | 6 | 0 | 0 | 6 |
 | MG Scrip | 20 | 20 | 20 | 0 | 40 |
