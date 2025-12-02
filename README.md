@@ -4,7 +4,7 @@ Wikelo Polaris Table
 | Item | Needed | Drakestorm | 1337-m0rph10u5 | Fun_and_Games | Total |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Wikelo Favor $${\color{Red}*}$$ | 50 | 0 | 0 | 0 | 0 |
-| Polaris Bit $${\color{Red}*}$$ | 25 | 0 | 0 | 0 | 0 |
+| Polaris Bit $${\color{Red}*}$$ | 25 | 25 | 0 | 0 | 25 |
 | DCHS-05 Orbital Positioning Comp-Board $${\color{Red}*}$$ | 20 | 20 | 7 | 0 | 27 |
 | Carinite | 20 | 36 | 20 | 10 | 66 |
 | Irradiated Valakkar Fang (Apex) $${\color{Red}*}$$ | 20 | 20 | 25 | 0 | 45 |
